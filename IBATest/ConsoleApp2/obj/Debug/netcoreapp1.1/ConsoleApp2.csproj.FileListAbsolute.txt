@@ -1,0 +1,9 @@
+C:\Temp\IBATest\ConsoleApp2\bin\Debug\netcoreapp1.1\ConsoleApp2.deps.json
+C:\Temp\IBATest\ConsoleApp2\bin\Debug\netcoreapp1.1\ConsoleApp2.runtimeconfig.json
+C:\Temp\IBATest\ConsoleApp2\bin\Debug\netcoreapp1.1\ConsoleApp2.runtimeconfig.dev.json
+C:\Temp\IBATest\ConsoleApp2\bin\Debug\netcoreapp1.1\ConsoleApp2.dll
+C:\Temp\IBATest\ConsoleApp2\bin\Debug\netcoreapp1.1\ConsoleApp2.pdb
+C:\Temp\IBATest\ConsoleApp2\obj\Debug\netcoreapp1.1\ConsoleApp2.csprojResolveAssemblyReference.cache
+C:\Temp\IBATest\ConsoleApp2\obj\Debug\netcoreapp1.1\ConsoleApp2.AssemblyInfo.cs
+C:\Temp\IBATest\ConsoleApp2\obj\Debug\netcoreapp1.1\ConsoleApp2.dll
+C:\Temp\IBATest\ConsoleApp2\obj\Debug\netcoreapp1.1\ConsoleApp2.pdb
